@@ -1068,6 +1068,7 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/rules_swift/archive/3eeeb53cebda55b349d64c9fc144e18c5f7c0eb8.tar.gz",
             "https://github.com/bazelbuild/rules_swift/archive/3eeeb53cebda55b349d64c9fc144e18c5f7c0eb8.tar.gz",
+            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3eeeb53cebda55b349d64c9fc144e18c5f7c0eb8.tar.gz",
         ],
     )
 
@@ -1079,6 +1080,7 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/apple_support/archive/501b4afb27745c4813a88ffa28acd901408014e4.tar.gz",
             "https://github.com/bazelbuild/apple_support/archive/501b4afb27745c4813a88ffa28acd901408014e4.tar.gz",
+            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/501b4afb27745c4813a88ffa28acd901408014e4.tar.gz",
         ],
     )
 
