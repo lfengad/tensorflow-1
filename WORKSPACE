@@ -8,7 +8,6 @@ http_archive(
     strip_prefix = "rules_closure-308b05b2419edb5c8ee0471b67a40403df940149",
     urls = [
         "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/rules_closure/archive/308b05b2419edb5c8ee0471b67a40403df940149.tar.gz",
-        "https://github.com/bazelbuild/rules_closure/archive/308b05b2419edb5c8ee0471b67a40403df940149.tar.gz",  # 2019-06-13
         "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/308b05b2419edb5c8ee0471b67a40403df940149.tar.gz",
     ],
 )
