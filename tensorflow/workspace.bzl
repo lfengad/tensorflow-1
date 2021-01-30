@@ -585,10 +585,10 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         build_file = clean_dep("//third_party:dill.BUILD"),
         system_build_file = clean_dep("//third_party/systemlibs:dill.BUILD"),
         urls = [
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/dill-0.3.2.tar.gz",
+            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/dill-0.3.2.zip",
             "http://mirror.tensorflow.org/files.pythonhosted.org/packages/e2/96/518a8ea959a734b70d2e95fef98bcbfdc7adad1c1e5f5dd9148c835205a5/dill-0.3.2.zip",
         ],
-        sha256 = "42d8ef819367516592a825746a18073ced42ca169ab1f5f4044134703e7a049c",
+        sha256 = "6e12da0d8e49c220e8d6e97ee8882002e624f1160289ce85ec2cc0a5246b3a2e",
         strip_prefix = "dill-0.3.2",
     )
 
