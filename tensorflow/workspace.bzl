@@ -554,8 +554,8 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         build_file = clean_dep("//third_party:dill.BUILD"),
         system_build_file = clean_dep("//third_party/systemlibs:dill.BUILD"),
         urls = [
-            "http://mirror.tensorflow.org/files.pythonhosted.org/packages/e2/96/518a8ea959a734b70d2e95fef98bcbfdc7adad1c1e5f5dd9148c835205a5/dill-0.3.2.zip",
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/dill-0.3.1.1.tar.gz",
+            "http://mirror.tensorflow.org/files.pythonhosted.org/packages/e2/96/518a8ea959a734b70d2e95fef98bcbfdc7adad1c1e5f5dd9148c835205a5/dill-0.3.2.zip",
         ],
         sha256 = "42d8ef819367516592a825746a18073ced42ca169ab1f5f4044134703e7a049c",
         strip_prefix = "dill-0.3.2",
@@ -566,8 +566,8 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         build_file = clean_dep("//third_party:tblib.BUILD"),
         system_build_file = clean_dep("//third_party/systemlibs:tblib.BUILD"),
         urls = [
-            "http://mirror.tensorflow.org/files.pythonhosted.org/packages/d3/41/901ef2e81d7b1e834b9870d416cb09479e175a2be1c4aa1a9dcd0a555293/tblib-1.7.0.tar.gz",
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/tblib-1.7.0.tar.gz",
+            "http://mirror.tensorflow.org/files.pythonhosted.org/packages/d3/41/901ef2e81d7b1e834b9870d416cb09479e175a2be1c4aa1a9dcd0a555293/tblib-1.7.0.tar.gz",
         ],
         sha256 = "059bd77306ea7b419d4f76016aef6d7027cc8a0785579b5aad198803435f882c",
         strip_prefix = "tblib-1.7.0",
@@ -595,8 +595,8 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "//third_party/systemlibs:protobuf.bzl": "protobuf.bzl",
         },
         urls = [
-            "https://storage.googleapis.com/mirror.tensorflow.org/github.com/protocolbuffers/protobuf/archive/v3.9.2.zip",
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v3.9.2.zip",
+            "https://storage.googleapis.com/mirror.tensorflow.org/github.com/protocolbuffers/protobuf/archive/v3.9.2.zip",
         ],
     )
 
