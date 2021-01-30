@@ -455,7 +455,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
                 "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/LICENSE",
                 "https://storage.googleapis.com/mirror.tensorflow.org/raw.githubusercontent.com/simonpercivall/astunparse/v1.6.2/LICENSE",
                 "https://raw.githubusercontent.com/simonpercivall/astunparse/v1.6.2/LICENSE",
-                "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/LICENSE",
             ],
         },
     )
@@ -517,10 +516,8 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         licenses = ["notice"],  # PSFL
         sha256_urls = {
             "ff17ce94e102024deb68773eb1cc74ca76da4e658f373531f0ac22d68a6bb1ad": [
-                "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/LICENSE",
                 "http://mirror.tensorflow.org/raw.githubusercontent.com/python/typing/master/typing_extensions/LICENSE",
                 "https://raw.githubusercontent.com/python/typing/master/typing_extensions/LICENSE",
-                "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/LICENSE",
             ],
         },
     )
