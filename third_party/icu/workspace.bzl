@@ -13,6 +13,7 @@ def repo():
         strip_prefix = "icu-release-64-2",
         sha256 = "dfc62618aa4bd3ca14a3df548cd65fe393155edd213e49c39f3a30ccd618fc27",
         urls = [
+            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/release-64-2.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/unicode-org/icu/archive/release-64-2.zip",
             "https://github.com/unicode-org/icu/archive/release-64-2.zip",
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/release-64-2.zip",

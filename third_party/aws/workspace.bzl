@@ -9,6 +9,7 @@ def repo():
     third_party_http_archive(
         name = "aws",
         urls = [
+            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.7.336.tar.gz"
             "https://mirror.bazel.build/github.com/aws/aws-sdk-cpp/archive/1.7.336.tar.gz",
             "https://github.com/aws/aws-sdk-cpp/archive/1.7.336.tar.gz",
         ],
