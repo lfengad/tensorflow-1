@@ -3,7 +3,7 @@ load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 def bazel_toolchains_archive():
     http_archive(
         name = "bazel_toolchains",
-        sha256 = "20c6a4d07658c6dfefe569785ede1a272894854e776968f12053828312f8304e",
+        sha256 = "e9223c7ca0b7375f07dc2fc74637e38df13a4e59b684f756552e6a7a60f1ec0b",
         strip_prefix = "bazel-toolchains-92dd8a7a518a2fb7ba992d47c8b38299fe0be825",
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/92dd8a7a518a2fb7ba992d47c8b38299fe0be825.tar.gz",
