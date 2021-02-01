@@ -160,7 +160,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/029c88620802e1361ccf41d1970bd5b07fd6b7bb.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/Maratyszcza/pthreadpool/archive/029c88620802e1361ccf41d1970bd5b07fd6b7bb.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/029c88620802e1361ccf41d1970bd5b07fd6b7bb.zip",
         ],
     )
 
@@ -172,7 +171,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v0.21.3.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/oneapi-src/oneDNN/archive/v0.21.3.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v0.21.3.tar.gz",
         ],
     )
 
@@ -184,7 +182,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.6.4.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/oneapi-src/oneDNN/archive/v1.6.4.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.6.4.tar.gz",
         ],
     )
 
@@ -199,7 +196,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/df3ea785d8c30a9503321a3d35ee7d35808f190d.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/abseil/abseil-cpp/archive/df3ea785d8c30a9503321a3d35ee7d35808f190d.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/df3ea785d8c30a9503321a3d35ee7d35808f190d.tar.gz",
         ],
     )
 
@@ -212,7 +208,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/eigen-011e0db31d1bed8b7f73662be6d57d9f30fa457a.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/gitlab.com/libeigen/eigen/-/archive/011e0db31d1bed8b7f73662be6d57d9f30fa457a/eigen-011e0db31d1bed8b7f73662be6d57d9f30fa457a.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/eigen-011e0db31d1bed8b7f73662be6d57d9f30fa457a.tar.gz",
         ],
     )
 
@@ -224,7 +219,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/eb68350c5c8ec1663b7fe52c742ac4271e3217c5.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/rvagg/rpi-newer-crosstools/archive/eb68350c5c8ec1663b7fe52c742ac4271e3217c5.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/eb68350c5c8ec1663b7fe52c742ac4271e3217c5.tar.gz",
         ],
     )
 
@@ -275,7 +269,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.14.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/hfp/libxsmm/archive/1.14.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.14.tar.gz",
         ],
     )
 
@@ -287,7 +280,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/506cfa4bffd060c06ec338ce50ea3468daa6c814.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/re2/archive/506cfa4bffd060c06ec338ce50ea3468daa6c814.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/506cfa4bffd060c06ec338ce50ea3468daa6c814.tar.gz",
         ],
     )
 
@@ -299,7 +291,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.0.6.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/crc32c/archive/1.0.6.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.0.6.tar.gz",
         ],
     )
 
@@ -318,7 +309,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.17.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/googleapis/google-cloud-cpp/archive/v1.17.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.17.1.tar.gz",
         ],
     )
 
@@ -329,7 +319,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/2643d8caeba6ca2a6a0b46bb123953cb95b7e7d5.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/GoogleCloudPlatform/tensorflow-gcp-tools/archive/2643d8caeba6ca2a6a0b46bb123953cb95b7e7d5.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/2643d8caeba6ca2a6a0b46bb123953cb95b7e7d5.tar.gz",
         ],
     )
 
@@ -351,7 +340,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/fda83bdc38b118cc6b56753bd540caa49e570745.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/gemmlowp/archive/fda83bdc38b118cc6b56753bd540caa49e570745.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/fda83bdc38b118cc6b56753bd540caa49e570745.zip",
         ],
     )
 
@@ -363,7 +351,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/816a4ae622e964763ca0862d9dbd19324a1eaf45.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/farmhash/archive/816a4ae622e964763ca0862d9dbd19324a1eaf45.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/816a4ae622e964763ca0862d9dbd19324a1eaf45.tar.gz",
         ],
     )
 
@@ -377,7 +364,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.6.37.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/glennrp/libpng/archive/v1.6.37.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.6.37.tar.gz",
         ],
     )
 
@@ -390,7 +376,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/sqlite-amalgamation-3330000.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/www.sqlite.org/2020/sqlite-amalgamation-3330000.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/sqlite-amalgamation-3330000.zip",
         ],
     )
 
@@ -404,7 +389,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/giflib-5.2.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pilotfiber.dl.sourceforge.net/project/giflib/giflib-5.2.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/giflib-5.2.1.tar.gz",
         ],
     )
 
@@ -417,7 +401,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/six-1.15.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pypi.python.org/packages/source/s/six/six-1.15.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/six-1.15.0.tar.gz",
         ],
     )
 
@@ -430,7 +413,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/astor-0.7.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pypi.python.org/packages/99/80/f9482277c919d28bebd85813c0a70117214149a96b08981b72b63240b84c/astor-0.7.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/astor-0.7.1.tar.gz",
         ],
     )
 
@@ -443,7 +425,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/astunparse-1.6.3.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/files.pythonhosted.org/packages/f3/af/4182184d3c338792894f34a62672919db7ca008c89abee9b564dd34d8029/astunparse-1.6.3.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/astunparse-1.6.3.tar.gz",
         ],
     )
 
@@ -468,7 +449,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/functools32-3.2.3-2.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pypi.python.org/packages/c5/60/6ac26ad05857c601308d8fb9e87fa36d0ebf889423f47c3502ef034365db/functools32-3.2.3-2.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/functools32-3.2.3-2.tar.gz",
         ],
     )
 
@@ -481,7 +461,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/gast-0.3.3.tar.gz",
             "http://mirror.tensorflow.org/files.pythonhosted.org/packages/12/59/eaa15ab9710a20e22225efd042cd2d6a0b559a0656d5baba9641a2a4a921/gast-0.3.3.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/gast-0.3.3.tar.gz",
         ],
     )
 
@@ -494,7 +473,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/termcolor-1.1.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pypi.python.org/packages/8a/48/a76be51647d0eb9f10e2a4511bf3ffb8cc1e6b14e9e4fab46173aa79f981/termcolor-1.1.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/termcolor-1.1.0.tar.gz",
         ],
     )
 
@@ -507,7 +485,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/typing_extensions-3.7.4.2.tar.gz",
             "http://mirror.tensorflow.org/files.pythonhosted.org/packages/6a/28/d32852f2af6b5ead85d396249d5bdf450833f3a69896d76eb480d9c5e406/typing_extensions-3.7.4.2.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/typing_extensions-3.7.4.2.tar.gz",
         ],
     )
 
@@ -532,7 +509,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/opt_einsum-2.3.2.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pypi.python.org/packages/f6/d6/44792ec668bcda7d91913c75237314e688f70415ab2acd7172c845f0b24f/opt_einsum-2.3.2.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/opt_einsum-2.3.2.tar.gz",
         ],
     )
 
@@ -550,7 +526,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/pypi-v0.9.0.tar.gz",           
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/abseil/abseil-py/archive/pypi-v0.9.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/pypi-v0.9.0.tar.gz",           
         ],
     )
 
@@ -559,7 +534,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/enum34-1.1.6.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/pypi.python.org/packages/bf/3e/31d502c25302814a7c2f1d3959d2a3b3f78e509002ba91aea64993936876/enum34-1.1.6.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/enum34-1.1.6.tar.gz",
         ],
         sha256 = "8ad8c4783bf61ded74527bffb48ed9b54166685e4230386a9ed9b1279e2df5b1",
         build_file = clean_dep("//third_party:enum34.BUILD"),
@@ -610,7 +584,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
                 "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/license.rst.txt",
                 "https://storage.googleapis.com/mirror.tensorflow.org/docs.python.org/2.7/_sources/license.rst.txt",
                 "https://docs.python.org/2.7/_sources/license.rst.txt",
-                "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/license.rst.txt",
             ],
         },
     )
@@ -638,7 +611,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.22.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/nsync/archive/1.22.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.22.0.tar.gz",
         ],
     )
 
@@ -649,7 +621,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/b6cd405286ed8635ece71c72f118e659f4ade3fb.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/googletest/archive/b6cd405286ed8635ece71c72f118e659f4ade3fb.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/b6cd405286ed8635ece71c72f118e659f4ade3fb.zip",
         ],
     )
 
@@ -660,7 +631,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v2.2.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/gflags/gflags/archive/v2.2.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v2.2.1.tar.gz",
         ],
     )
 
@@ -673,7 +643,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/pcre-8.42.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/ftp.exim.org/pub/pcre/pcre-8.42.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/pcre-8.42.tar.gz",
         ],
     )
 
@@ -686,7 +655,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/curl-7.69.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/curl.haxx.se/download/curl-7.69.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/curl-7.69.1.tar.gz",
         ],
     )
 
@@ -709,7 +677,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/grpc/grpc/archive/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
         ],
     )
 
@@ -721,7 +688,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/c894b9e59f02203dbe4e2be657572cf88c4230c3.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/antirez/linenoise/archive/c894b9e59f02203dbe4e2be657572cf88c4230c3.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/c894b9e59f02203dbe4e2be657572cf88c4230c3.tar.gz",
         ],
     )
 
@@ -731,7 +697,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
     LLVM_URLS = [
         "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/{commit}.tar.gz".format(commit = LLVM_COMMIT),
         "https://storage.googleapis.com/mirror.tensorflow.org/github.com/llvm/llvm-project/archive/{commit}.tar.gz".format(commit = LLVM_COMMIT),
-        "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/{commit}.tar.gz".format(commit = LLVM_COMMIT),
     ]
     tf_http_archive(
         name = "llvm-project",
@@ -754,7 +719,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/openmp-10.0.1.src.tar.xz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/llvm/llvm-project/releases/download/llvmorg-10.0.1/openmp-10.0.1.src.tar.xz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/openmp-10.0.1.src.tar.xz",
         ],
     )
 
@@ -767,7 +731,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/LMDB_0.9.22.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/LMDB/lmdb/archive/LMDB_0.9.22.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/LMDB_0.9.22.tar.gz",
         ],
     )
 
@@ -780,7 +743,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.9.2.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/open-source-parsers/jsoncpp/archive/1.9.2.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.9.2.tar.gz",
         ],
     )
 
@@ -792,7 +754,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/80ca9f9f6ece29ab132cce4cf807a9465a18cfac.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/boringssl/archive/80ca9f9f6ece29ab132cce4cf807a9465a18cfac.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/80ca9f9f6ece29ab132cce4cf807a9465a18cfac.tar.gz",
         ],
     )
 
@@ -805,7 +766,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/zlib-1.2.11.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/zlib.net/zlib-1.2.11.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/zlib-1.2.11.tar.gz",
         ],
     )
 
@@ -817,7 +777,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/petewarden/OouraFFT/archive/v1.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v1.0.tar.gz",
         ],
     )
 
@@ -830,7 +789,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.1.8.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/snappy/archive/1.1.8.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.1.8.tar.gz",
         ],
     )
 
@@ -843,7 +801,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/195232556936b39b01cc908296e1650b80d4a3e9.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/nvidia/nccl/archive/195232556936b39b01cc908296e1650b80d4a3e9.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/195232556936b39b01cc908296e1650b80d4a3e9.tar.gz",
         ],
     )
 
@@ -855,7 +812,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "https://storage.googleapis.com/mirror.tensorflow.org/repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar",
             "https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar",
             "https://maven.ibiblio.org/maven2/junit/junit/4.12/junit-4.12.jar",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/junit-4.12.jar",
         ],
         licenses = ["reciprocal"],  # Common Public License Version 1.0
         testonly_ = True,
@@ -870,7 +826,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "https://storage.googleapis.com/mirror.tensorflow.org/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar",
             "https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar",
             "https://maven.ibiblio.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/hamcrest-core-1.3.jar",
         ],
         licenses = ["notice"],  # New BSD License
         testonly_ = True,
@@ -883,7 +838,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/compile-testing-0.11.jar",
             "https://storage.googleapis.com/mirror.tensorflow.org/repo1.maven.org/maven2/com/google/testing/compile/compile-testing/0.11/compile-testing-0.11.jar",
             "https://repo1.maven.org/maven2/com/google/testing/compile/compile-testing/0.11/compile-testing-0.11.jar",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/compile-testing-0.11.jar",
         ],
         licenses = ["notice"],  # New BSD License
         testonly_ = True,
@@ -897,7 +851,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/truth-0.32.jar",
             "https://storage.googleapis.com/mirror.tensorflow.org/repo1.maven.org/maven2/com/google/truth/truth/0.32/truth-0.32.jar",
             "https://repo1.maven.org/maven2/com/google/truth/truth/0.32/truth-0.32.jar",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/truth-0.32.jar",
         ],
         licenses = ["notice"],  # Apache 2.0
         testonly_ = True,
@@ -911,7 +864,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/checker-qual-2.10.0.jar",
             "https://storage.googleapis.com/mirror.tensorflow.org/repo1.maven.org/maven2/org/checkerframework/checker-qual/2.10.0/checker-qual-2.10.0.jar",
             "https://repo1.maven.org/maven2/org/checkerframework/checker-qual/2.10.0/checker-qual-2.10.0.jar",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/checker-qual-2.10.0.jar",
         ],
         licenses = ["notice"],  # Apache 2.0
     )
@@ -923,7 +875,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/javapoet-1.9.0.jar",
             "https://storage.googleapis.com/mirror.tensorflow.org/repo1.maven.org/maven2/com/squareup/javapoet/1.9.0/javapoet-1.9.0.jar",
             "https://repo1.maven.org/maven2/com/squareup/javapoet/1.9.0/javapoet-1.9.0.jar",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/javapoet-1.9.0.jar",
         ],
         licenses = ["notice"],  # Apache 2.0
     )
@@ -936,7 +887,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/c0fb62ec88c411cc91194465e54db2632845b650.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/pprof/archive/c0fb62ec88c411cc91194465e54db2632845b650.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/c0fb62ec88c411cc91194465e54db2632845b650.tar.gz",
         ],
     )
 
@@ -950,7 +900,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.9.9.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/NVlabs/cub/archive/1.9.9.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.9.9.zip",
         ],
     )
 
@@ -964,7 +913,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/0.29.21.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/cython/cython/archive/0.29.21.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/0.29.21.tar.gz",
         ],
     )
 
@@ -976,7 +924,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1200fe90bb174a6224a525ee60148671a786a71f.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/intel/ARM_NEON_2_x86_SSE/archive/1200fe90bb174a6224a525ee60148671a786a71f.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1200fe90bb174a6224a525ee60148671a786a71f.tar.gz",
         ],
     )
 
@@ -989,7 +936,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3992066a95b823efc8ccc1baf82a1cfc73f6e9b8.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/google/double-conversion/archive/3992066a95b823efc8ccc1baf82a1cfc73f6e9b8.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3992066a95b823efc8ccc1baf82a1cfc73f6e9b8.zip",
         ],
     )
 
@@ -1081,7 +1027,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/rules_python-0.0.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/rules_python/releases/download/0.0.1/rules_python-0.0.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/rules_python-0.0.1.tar.gz",
         ],
     )
 
@@ -1092,7 +1037,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v0.1.1.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/rules_android/archive/v0.1.1.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v0.1.1.zip",
         ],
     )
 
@@ -1105,7 +1049,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/5131f3d46794bf227d296c82f30c2499c9de3c5b.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/rules_apple/archive/5131f3d46794bf227d296c82f30c2499c9de3c5b.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/5131f3d46794bf227d296c82f30c2499c9de3c5b.tar.gz",
         ],
     )
 
@@ -1117,7 +1060,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3eeeb53cebda55b349d64c9fc144e18c5f7c0eb8.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/rules_swift/archive/3eeeb53cebda55b349d64c9fc144e18c5f7c0eb8.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3eeeb53cebda55b349d64c9fc144e18c5f7c0eb8.tar.gz",
         ],
     )
 
@@ -1129,7 +1071,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/501b4afb27745c4813a88ffa28acd901408014e4.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/apple_support/archive/501b4afb27745c4813a88ffa28acd901408014e4.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/501b4afb27745c4813a88ffa28acd901408014e4.tar.gz",
         ],
     )
 
@@ -1140,7 +1081,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/bazel_skylib-0.9.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/bazelbuild/bazel-skylib/releases/download/0.9.0/bazel_skylib-0.9.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/bazel_skylib-0.9.0.tar.gz",
         ],
     )
 
@@ -1152,7 +1092,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.6.0.zip",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/apple/swift-protobuf/archive/1.6.0.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.6.0.zip",
         ],
     )
 
@@ -1174,7 +1113,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v3.4.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/nlohmann/json/archive/v3.4.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v3.4.0.tar.gz",
         ],
     )
 
@@ -1183,7 +1121,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v2.6.0.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/pybind/pybind11/archive/v2.6.0.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v2.6.0.tar.gz",
         ],
         sha256 = "90b705137b69ee3b5fc655eaca66d0dc9862ea1759226f7ccd3098425ae69571",
         strip_prefix = "pybind11-2.6.0",
@@ -1200,7 +1137,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.11.1.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/GrahamDumpleton/wrapt/archive/1.11.1.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/1.11.1.tar.gz",
         ],
     )
     tf_http_archive(
@@ -1211,7 +1147,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3.3.zip",
             "http://mirror.tensorflow.org/github.com/apple/coremltools/archive/3.3.zip",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/3.3.zip",
         ],
     )
 
@@ -1223,7 +1158,6 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
         urls = [
             "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v0.0.2.tar.gz",
             "http://mirror.tensorflow.org/github.com/tensorflow/toolchains/archive/v0.0.2.tar.gz",
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/v0.0.2.tar.gz",
         ],
     )
 
