@@ -1071,12 +1071,10 @@ struct safe_pow : base<T, Eigen::internal::safe_scalar_binary_pow_op<T, T>> {
 };
 
 template <typename T>
-struct maximum
-    : base<T, Eigen::internal::scalar_max_op<T, T, Eigen::PropagateNaN>> {};
+struct maximum : base<T, Eigen::internal::scalar_max_op<T>> {};
 
 template <typename T>
-struct minimum
-    : base<T, Eigen::internal::scalar_min_op<T, T, Eigen::PropagateNaN>> {};
+struct minimum : base<T, Eigen::internal::scalar_min_op<T>> {};
 
 template <typename T>
 struct igamma : base<T, Eigen::internal::scalar_igamma_op<T>> {};

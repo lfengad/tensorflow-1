@@ -661,7 +661,8 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
     # WARNING: make sure ncteisen@ and vpai@ are cc-ed on any CL to change the below rule
     tf_http_archive(
         name = "com_github_grpc_grpc",
-        sha256 = "c51f794924da1ff7043c471649da25218484595e04cf8de5cd22e34db2edd3ef",
+        #sha256 = "c51f794924da1ff7043c471649da25218484595e04cf8de5cd22e34db2edd3ef",
+	sha256 = "b956598d8cbe168b5ee717b5dafa56563eb5201a947856a6688bbeac9cac4e1f",
         strip_prefix = "grpc-b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd",
         system_build_file = clean_dep("//third_party/systemlibs:grpc.BUILD"),
         patch_file = clean_dep("//third_party/grpc:generate_cc_env_fix.patch"),
@@ -675,7 +676,8 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
             "//third_party/systemlibs:grpc.bazel.protobuf.bzl": "bazel/protobuf.bzl",
         },
         urls = [
-            "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
+            "file:///home/tashuang.zk/bazelbuild/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
+            #"http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
             "https://storage.googleapis.com/mirror.tensorflow.org/github.com/grpc/grpc/archive/b54a5b338637f92bfcf4b0bc05e0f57a5fd8fadd.tar.gz",
         ],
     )
@@ -695,7 +697,7 @@ def tf_repositories(path_prefix = "", tf_repo_name = ""):
     LLVM_COMMIT = "f147f59cd377a6be68e5ca5c343eb11df8e7ee6f"
     LLVM_SHA256 = "22cb626398e60d5bcb75ce61f59ae9df56ffedc75c40525214ff890e3e27e3d2"
     LLVM_URLS = [
-        "http://10.0.100.3/xuanbaby/xuan-pkg/-/raw/master/{commit}.tar.gz".format(commit = LLVM_COMMIT),
+        "file:///home/tashuang.zk/bazelbuild/{commit}.tar.gz".format(commit = LLVM_COMMIT),
         "https://storage.googleapis.com/mirror.tensorflow.org/github.com/llvm/llvm-project/archive/{commit}.tar.gz".format(commit = LLVM_COMMIT),
     ]
     tf_http_archive(

@@ -1,0 +1,1 @@
+export PYTHON_BIN_PATH="/home/fl237079/shenshi/env/bin/python"
