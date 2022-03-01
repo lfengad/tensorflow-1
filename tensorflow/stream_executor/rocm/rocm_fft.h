@@ -148,4 +148,5 @@ class ROCMFft : public fft::FftSupport {
 }  // namespace gpu
 }  // namespace stream_executor
 
+#endif
 #endif  // TENSORFLOW_STREAM_EXECUTOR_ROCM_ROCM_FFT_H_

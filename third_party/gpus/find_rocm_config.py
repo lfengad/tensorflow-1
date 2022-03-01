@@ -338,7 +338,7 @@ def find_rocm_config():
     result.update(_find_hipfft_config(rocm_install_path))
   result.update(_find_roctracer_config(rocm_install_path))
   result.update(_find_hipsparse_config(rocm_install_path))
-  if result["rocm_version_number"] >= 40500:
+  if (enable_dcu != "1") and result["rocm_version_number"] >= 40500:
     result.update(_find_hipsolver_config(rocm_install_path))
   result.update(_find_rocsolver_config(rocm_install_path))
 
