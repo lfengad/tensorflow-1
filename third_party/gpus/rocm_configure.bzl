@@ -36,6 +36,7 @@ _TF_ROCM_AMDGPU_TARGETS = "TF_ROCM_AMDGPU_TARGETS"
 _TF_ROCM_CONFIG_REPO = "TF_ROCM_CONFIG_REPO"
 
 _DEFAULT_ROCM_TOOLKIT_PATH = "/opt/rocm"
+_DEFAULT_ROCM_AMDGPU_TARGETS = ["gfx900", "gfx906", "gfx908"]
 
 def verify_build_defines(params):
     """Verify all variables that crosstool/BUILD.rocm.tpl expects are substituted.
@@ -211,6 +212,8 @@ def _enable_rocm(repository_ctx):
 def _amdgpu_targets(repository_ctx, rocm_toolkit_path, bash_bin):
     """Returns a list of strings representing AMDGPU targets."""
     amdgpu_targets_str = get_host_environ(repository_ctx, _TF_ROCM_AMDGPU_TARGETS)
+    if not amdgpu_targets_str:
+        return _DEFAULT_ROCM_AMDGPU_TARGETS
     if not amdgpu_targets_str:
         cmd = "%s/bin/rocm_agent_enumerator" % rocm_toolkit_path
         result = execute(repository_ctx, [bash_bin, "-c", cmd])
