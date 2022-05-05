@@ -36,7 +36,7 @@ _TF_ROCM_AMDGPU_TARGETS = "TF_ROCM_AMDGPU_TARGETS"
 _TF_ROCM_CONFIG_REPO = "TF_ROCM_CONFIG_REPO"
 
 _DEFAULT_ROCM_TOOLKIT_PATH = "/opt/rocm"
-_DEFAULT_ROCM_AMDGPU_TARGETS = ["gfx900", "gfx906", "gfx908"]
+_DEFAULT_ROCM_AMDGPU_TARGETS = ["gfx900", "gfx906", "gfx908", "gfx90a", "gfx910"]
 
 def verify_build_defines(params):
     """Verify all variables that crosstool/BUILD.rocm.tpl expects are substituted.
